@@ -21,10 +21,6 @@ sHxD is a lightweight and blazingly fast tool designed to help you view the cont
 
 This application is provided as-is, without any warranty of any kind. The author assumes no liability for damages or issues caused by the use of this software. Please use at your own discretion.
 
-## Contributing
-
-We welcome contributions! If you have ideas for improvements or additional features, feel free to open a pull request or issue on the [GitHub repository](https://github.com/himanshuxd/sHxD).
-
 ## License
 
 This project is licensed under the [MIT License](https://github.com/himanshuxd/sHxD/blob/main/LICENSE).
